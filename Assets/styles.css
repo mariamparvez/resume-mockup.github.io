@@ -1,0 +1,208 @@
+* {
+	color: white;
+	margin: 0px;
+	padding: 0px; 
+}
+
+.container-fluid {
+	width: 100vw;
+}
+
+body {
+	width: 100vw;
+}
+
+
+ .imp {
+ 	height: 350px;
+ 	width: 350px;
+ 	border: 5px solid white;
+ 	border-radius: 250px; 
+ 	margin: 20px 0px; 
+ 	padding: 0px;
+ }
+
+ #mp {
+ padding-left: 0px;
+ }
+
+ .active {
+ 	background-color: #2d3e50;
+ }
+
+ .info {
+ 	margin: 40px -40px; 
+ }
+
+ li {
+ 	border-bottom: 1px dotted white;
+ 	padding-right: 0px;
+ 	padding-top: 10px;
+ }
+
+ #dd {
+ 	border-bottom: 0px dotted white;
+ 	margin-top: 3px; 
+ }
+
+.jumbotron{
+	padding: 0px;
+	background-color: cyan; 
+}
+
+span {
+	font-size: 1em;
+}
+
+.text{
+	font-size: 10px;
+	padding-bottom: 10px;
+}
+
+a, .aa {
+    color: navy;
+    text-decoration: none;
+}
+
+.p {
+	padding-top: 40px;
+
+}
+
+.a {
+	background-color: #2d3e50;
+	padding: 10px;
+}
+
+.b {
+	padding: 60px;
+	background-color: #0da3bb;
+}
+
+
+.c {
+	padding: 50px 0px;
+	background-color: #7e8c8d;
+}
+
+.d {
+	padding: 50px 0px;
+	background-color: #17a086;
+}
+
+
+.f {
+ 	color: #2d3e50;
+}
+
+.w {
+
+	border-bottom: 1px dashed white;
+	height: 30px;
+}
+
+.y {
+	background-color: #2d3e50;
+	padding-top: 20px;
+}
+
+.t {
+	background-color: #17a086;
+}
+
+.j {
+	color: #17a086;
+}
+
+.e1 {
+	color : black;
+}
+
+#i1 {
+	padding-left: 130px; 
+}
+
+#m , #n {
+	border-bottom: 0px;
+	padding-top: 10px;	
+}
+
+#b {
+	padding-top: 50px;
+}
+
+.navbar-brand, a strong {
+	font-family: Gloomy - Halloween Font;
+	font-weight: bold;
+	color: cyan; 
+	font-size: 40px;
+	letter-spacing: .1px;
+}
+
+#form {
+	width: 540px;
+	height: 40px;
+	border-radius: 5px;
+	color: black;
+}
+
+#f {
+	height: 100px;
+	width: 540px;
+	border-radius: 5px;
+	color: black;
+}
+
+.navbar-default .navbar-nav>.n>a {
+	color: cyan;
+	border-bottom: 0px; 
+}
+
+.navbar-default .navbar-nav>.n>a:hover {
+	color: 	turquoise;
+}
+
+.navbar-default .navbar-nav>.m>a{
+	color: white;
+}
+
+.navbar-default .navbar-nav>.m>a:hover{
+	color: 	turquoise;
+}
+
+.ww {
+
+	border-bottom: 1px dashed white;
+	height: 70px;
+}
+
+.mm .col-lg-8{
+	padding:0px;
+}
+
+.mm .col-lg-3{
+	padding:0px;
+}
+
+#l1 , #l2 {	
+	margin-top:50px;
+    padding: 40px 0px;
+    font-size: 20px;
+}
+
+ul {
+	  list-style-type: none;
+	  padding-left: 0px;
+}
+
+.pr {
+	width: 300px;
+	border-radius: 5px;
+}
+
+.btn .btn-info {
+	background-color: navy; 
+
+}
+
+
